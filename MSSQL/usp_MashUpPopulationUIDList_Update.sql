@@ -15,8 +15,8 @@
      
 	Update History:
 	Author			Date		Ver		Description
-	-------	------	----		-----------------
-	Jo Chang		2022-11-01	V1.0	更新混搭型 Popultion 名單
+	--------		------		----		-----------------
+	Jo Chang		2022-11-01	V1.0		更新混搭型 Popultion 名單
 
 
 */
